@@ -293,7 +293,7 @@ td {
 
 /* 갤러리 꾸미기 */
 .gallery {
-    width: 500px;
+    width: 1000px;
     margin: 10px auto;
     padding: 0 50px 40px;
     box-sizing: border-box;
