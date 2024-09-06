@@ -205,7 +205,7 @@ h6{
         height: 250px;
         position: relative;
         font-size: 18px;
-        background: url(../images/footerimg.png) no-repeat left bottom/ 200px, url(../images/footerimg2.png) no-repeat right top/ 200px #F3EDED;
+        background: url(../images/footerimg.png) no-repeat left bottom/ 200px, url(../images/footerimg2.png) no-repeat right top/ 200px #f0f1d7;
     
     
     }
